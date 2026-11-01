@@ -61,7 +61,7 @@ ServerPilotX runs as your user. When a change needs root, it uses `sudo`: you en
 
 ## Differences from the web-panel spec
 
-`mdFile/serverpilotx-spec.md` describes a Go + React web panel with agents. This app is a native desktop version of the same idea, so some things differ:
+The original spec describes a Go + React web panel with agents. This app is a native desktop version of the same idea, so some things differ:
 
 - It has no agents and no control plane. Remote servers are managed over SSH (outbound only, nothing to install on them).
 - ACME certificates are issued through `certbot`, not a built-in ACME client.
