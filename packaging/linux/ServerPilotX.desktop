@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=ServerPilotX
+GenericName=Linux Server Manager
+Comment=Manage Docker, Nginx, SSL, firewall, SSH and server metrics
+Exec=APPLICATION_LAUNCHER
+Icon=APPLICATION_ICON
+Terminal=false
+Categories=System;Network;Monitor;
+Keywords=server;docker;nginx;ssl;firewall;ssh;admin;
+StartupWMClass=io.serverpilotx.App

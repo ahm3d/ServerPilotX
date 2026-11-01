@@ -1,0 +1,26 @@
+/* Light palette. */
+.root {
+    -spx-bg: #f3f6fb;
+    -spx-sidebar: #ffffff;
+    -spx-surface: #ffffff;
+    -spx-elevated: #f6f8fc;
+    -spx-hover: #eaf0fa;
+    -spx-border: #dde4ef;
+    -spx-text: #0f1a2e;
+    -spx-muted: #5b6b85;
+    -spx-faint: #8d9ab0;
+    -spx-accent: #1f6fe5;
+    -spx-accent-2: #0ea5e9;
+    -spx-accent-soft: #e2edff;
+    -spx-on-accent: #ffffff;
+    -spx-green: #16a34a;
+    -spx-green-soft: #dcfce7;
+    -spx-amber: #d97706;
+    -spx-amber-soft: #fef3c7;
+    -spx-red: #dc2626;
+    -spx-red-soft: #fee2e2;
+    -spx-purple: #7c3aed;
+    -spx-purple-soft: #ede9fe;
+    -spx-code-bg: #0f172a;
+    -spx-shadow: rgba(15, 26, 46, 0.12);
+}

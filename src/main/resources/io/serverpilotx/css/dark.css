@@ -1,0 +1,26 @@
+/* Dark palette — matches the ServerPilotX poster (deep navy + electric blue). */
+.root {
+    -spx-bg: #0a1020;
+    -spx-sidebar: #0d1528;
+    -spx-surface: #111a2f;
+    -spx-elevated: #17223b;
+    -spx-hover: #1c2944;
+    -spx-border: #22304d;
+    -spx-text: #e6edf8;
+    -spx-muted: #8b9bb7;
+    -spx-faint: #5d6d8a;
+    -spx-accent: #2f8cff;
+    -spx-accent-2: #22c1ff;
+    -spx-accent-soft: #15305a;
+    -spx-on-accent: #ffffff;
+    -spx-green: #22c55e;
+    -spx-green-soft: #0f3324;
+    -spx-amber: #f5a524;
+    -spx-amber-soft: #3a2a0c;
+    -spx-red: #f05252;
+    -spx-red-soft: #3d1518;
+    -spx-purple: #8b5cf6;
+    -spx-purple-soft: #2a1d52;
+    -spx-code-bg: #070c18;
+    -spx-shadow: rgba(0, 0, 0, 0.45);
+}
